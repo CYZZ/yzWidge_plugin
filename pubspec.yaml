@@ -1,8 +1,8 @@
 name: yzwidge_plugin
 description: A new Flutter project.
 version: 0.0.1
-author:
-homepage:
+author: chiyz
+homepage: https://github.com/linwenhui0/flibrary_plugin.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
