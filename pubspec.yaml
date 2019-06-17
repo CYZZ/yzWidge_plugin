@@ -2,7 +2,7 @@ name: yzwidge_plugin
 description: A new Flutter project.
 version: 0.0.1
 author: chiyz
-homepage: https://github.com/linwenhui0/flibrary_plugin.git
+homepage: https://github.com/CYZZ/yzWidge_plugin.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
